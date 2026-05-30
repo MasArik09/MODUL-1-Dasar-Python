@@ -1,0 +1,1 @@
+teks = "Halo dunia"
